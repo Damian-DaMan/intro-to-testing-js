@@ -1,4 +1,11 @@
-// helloWorld function 
-function helloWorld() {
-    return "Hello, World!";
+// helloWorld functio
+
+function sayHello(input) {
+    if (typeof input === 'string'); {
+        return "Hello"
+    }
 }
+
+// function sayHello() {
+//
+// }
